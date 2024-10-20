@@ -1,0 +1,24 @@
+['Topless figure', 'Blue car', 'Straight posture', 'Well-lit environment', 'Neutral facial expression', 'Minimalistic background', 'Sleek clothing', 'Sharp lines', 'Reflective surface (car)']
+['Middle-aged man', 'Working man', 'Jungle environment', 'Slicing motion', 'Makeshift scythe', 'Large leaves on trees', 'Grimy clothes', 'Dirt-covered face']
+These are the 8 low-level visual attributes that can be extracted from the given caption.
+['Hard hat', 'Safety vest', 'Welding tool', 'Carnival setting', 'Manual labor', 'Industrial environment', 'Ferris wheel in the background']
+['Caucasian female', 'Jumping motion', 'Heel-clicking gesture', 'Crowd of African children', 'Uplifted arms', 'Smiling expression', 'Outdoor environment', 'Vibrant clothing', 'Shaded area']
+['Rope ladder', 'Telescope', 'Sun glare', 'Little boy', 'Playground equipment', 'Hand on pole', 'Outdoor setting', 'Daytime scene', 'Young child']
+['Woman walking down stairs', 'Group of young men', 'Staircase', 'Street or indoor background', 'Shoes or footwear']
+['Blue jackets', 'Concentrated expressions', 'Sitting posture', 'Hand holding object', 'Women']
+['Blue robes', 'White headdresses', 'Yellow bicycles', 'Tall building', 'Street setting']
+['City street', 'Bike race', 'Leader in gray and red outfit', 'Group of men', 'Helmets', 'Racing bikes']
+
+Note: The output is generated based on the given caption and aims to provide a list of low-level visual attributes or sub-object elements that are related to the depicted scene.
+['Tattooed skin', 'Soldier mask', 'Elbow strike', 'Wrestling ring', 'Aggressive posture', 'Bloodied face']
+['Woman', 'Red umbrella', 'Food stand', 'Large temple', 'Rain or overcast sky', 'Street scene', 'Buildings in the background', 'Pedestrians passing by', 'Sightseeing or leisure activity']
+['Tanned skin', 'Volleyball', 'Beach setting', 'Blonde hair', 'Sunglasses', 'Sun hat', 'Ocean in the background', 'Sweat on the forehead', 'Running/jumping motion']
+['Board game', 'Younger couple', 'Indoor setting', 'Table', 'Chairs']
+
+Note: The output is a list of 4 low-level visual attributes that can be associated with the visual content in the image corresponding to the provided caption.
+['Ornate headdresses', 'Women', 'Dancing posture', 'Colorful attire', 'Traditional setting']
+['Yellow shirt', 'Child', 'Brightly colored food', 'Cheek', 'Licking motion']
+['Karate uniforms', 'Blue and brown belts', 'Young man and woman', 'Embrace', 'Spectators in the background']
+['Dancing', 'Two people', 'Outdoor setting', 'Daytime', 'Sunlight', 'Movement', 'Musical instruments (optional)', 'Festival atmosphere (optional)']
+['Black clothing', 'Male figure', 'Female figure', 'Standing posture', 'Building on fire', 'Smoke', 'Flames', 'Panic']
+These 8 elements reflect specific visual details or attributes that are related to the visual content of the provided caption. They include the black clothing worn by the two figures, the male and female figures themselves, their standing posture, the building on fire with its associated smoke and flames, and the overall scene of panic. These elements are all related to the low-level visual details of the image and are not abstract or high-level concepts.
